@@ -1,0 +1,21 @@
+第三方字体
+==========
+
+1. Long Cang（龙藏体）
+   文件：sharedUi/src/commonMain/composeResources/font/longcang_regular.ttf
+   来源：https://github.com/google/fonts/tree/main/ofl/longcang
+   版权：2018 The Long Cang Project Authors
+   许可：SIL OFL 1.1，全文见 app/src/main/assets/licenses/OFL-LongCang.txt
+
+2. Zhi Mang Xing（志莽行书）
+   文件：sharedUi/src/commonMain/composeResources/font/zhimangxing_regular.ttf
+   来源：https://github.com/google/fonts/tree/main/ofl/zhimangxing
+   版权：2018 The Zhi Mang Xing Project Authors
+   许可：SIL OFL 1.1，全文见 app/src/main/assets/licenses/OFL-ZhiMangXing.txt
+
+3. Vazirmatn
+   文件：sharedUi/src/commonMain/composeResources/font/vazirmatn_regular.ttf
+   来源：https://github.com/google/fonts/tree/main/ofl/vazirmatn
+   许可：SIL OFL 1.1，全文见 sharedUi/src/commonMain/composeResources/files/OFL-Vazirmatn.txt
+
+三款都是原版未改，许可全文随 APK 和源码一起放。字体是独立作品，不按本项目代码的 GPLv3 授权。
